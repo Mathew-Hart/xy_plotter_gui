@@ -3,6 +3,10 @@
 Standalone Python/Tk GUI for loading an SVG, previewing its toolpath, and sending
 Makeblock XY Plotter laser G-code over USB serial.
 
+![Makeblock XY Plotter 2.0 robot kit](docs/images/makeblock-xy-plotter-2.0.jpg)
+
+*Stock product photo: [Makeblock](https://github.com/Makeblock-official/XY-Plotter-2.0/blob/master/images/XY%20Plotter%202.0.jpg).*
+
 ## Run
 
 The GUI is intended for Linux with Python 3 and Tkinter. Its Python modules
