@@ -19,9 +19,9 @@ cd xy_plotter_gui
 python3 xy_plotter_gui.py
 ```
 
-`launch_xy_plotter_gui.sh` and `makeblock-xy-plotter.desktop` retain the
-original Linux installation path, `{insert path here}`. Adjust
-those paths if installing the desktop shortcut elsewhere.
+Before using `launch_xy_plotter_gui.sh` or `makeblock-xy-plotter.desktop`,
+replace `{insert path here}` in those files with the absolute path to your
+`xy_plotter_gui` directory.
 
 The app defaults to the CH340 controller found at:
 
