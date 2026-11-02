@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Makeblock XY Plotter
+Comment=Load SVG files and plot them on the Makeblock XY laser plotter
+Exec="{insert path here}/launch_xy_plotter_gui.sh"
+Path={insert path here}
+Icon=applications-graphics
+Terminal=false
+Categories=Graphics;
+StartupNotify=true
