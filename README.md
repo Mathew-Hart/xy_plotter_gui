@@ -7,6 +7,12 @@ Makeblock XY Plotter laser G-code over USB serial.
 
 *Stock product photo: [Makeblock](https://github.com/Makeblock-official/XY-Plotter-2.0/blob/master/images/XY%20Plotter%202.0.jpg).*
 
+## GUI preview
+
+![Makeblock XY Plotter GUI showing the sample SVG toolpath and controls](docs/images/xy-plotter-gui.jpg)
+
+*Actual GUI on macOS with `sample_square.svg` loaded, disconnected and in dry-run mode.*
+
 ## Run
 
 The GUI is intended for Linux with Python 3 and Tkinter. Its Python modules
